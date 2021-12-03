@@ -1,4 +1,5 @@
-
 module.exports = function Test1(server) {
-  server.on('name', data => data);
+  return new Promise(resolve => {
+    server.on('name', data => resolve(data) );
+  });
 }

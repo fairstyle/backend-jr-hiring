@@ -12,6 +12,9 @@ If you're a recruiter you're welcome to fork this repository and use it in your 
 
 In case you're a curious developer, use it as a homework to practice Javascript for backend, best practices between stages, and deployment workflows.
 
+# TEST RESULTS
+![test results](./mocha-test.png)
+
 # Rules ☝
 
 1. **Not fork!** Clone this repository. 🚨
